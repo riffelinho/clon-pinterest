@@ -1,0 +1,46 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.bandera {
+    background-color: darkblue;
+    height: 30%;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.columna__izq {
+    background-color: darkgoldenrod;
+    height: 100%;
+    width: 30%;
+}
+
+.columna__der {
+    background-color: darkmagenta;
+    height: 100%;
+    width: 50%;
+}
+
+.center__line {
+    background-color: darkblue;
+    height: 10%;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.inferior__izq {
+    background-color: darkred;
+    height: 40%;
+    width: 70%;
+}
+.inferior__der{
+   background-color: darkred;
+   height: 40%;
+   width: 50%;
+}
+
